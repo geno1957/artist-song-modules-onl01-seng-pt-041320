@@ -7,7 +7,7 @@ module Findable
        element.name == name 
        end 
     
-    
+    module InstanceMethods 
     
   end 
 end 
