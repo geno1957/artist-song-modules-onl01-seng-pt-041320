@@ -6,6 +6,8 @@ module Findable
       self.all.find do |element|
        element.name == name 
        end 
+     end 
+       
     
     module InstanceMethods 
       
