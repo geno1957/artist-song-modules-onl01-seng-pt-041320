@@ -8,6 +8,8 @@ module Findable
        end 
     
     module InstanceMethods 
+      
+      def initialize 
     
   end 
 end 
