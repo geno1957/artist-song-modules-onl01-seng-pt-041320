@@ -10,6 +10,7 @@ module Findable
     module InstanceMethods 
       
       def initialize 
+        self.class.all 
     
   end 
 end 
